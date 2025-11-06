@@ -1,1 +1,3 @@
 inside simple first
+
+modifying first.txt
